@@ -1,0 +1,5 @@
+locations/us/nonprod/.terraform.lock.hcl
+locations/us/nonprod/terraform.tfstate
+locations/us/nonprod/terraform.tfstate.backup
+locations/us/nonprod/.terraform
+credentials/

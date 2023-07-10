@@ -1,0 +1,11 @@
+memory_store_name = "memory-store-example"
+memory_size_gb = 1
+tier = "BASIC"
+region = "us-central1"
+vpc = "default"
+cloud_storage_name = "cloud-storage-example"
+storage_class = "STANDARD"
+versioning = false
+sql_name = "sql-example"
+sql_version = "MYSQL_5_7"
+sql_tier = "db-f1-micro"
